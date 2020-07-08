@@ -1,6 +1,4 @@
-# super_ascii
-code to find if given inputs are super ascii or not
-In the Byteland country a string “S” is said to be super ASCIIi string if and only if count of each character in the string is equal to its ascii value.
+#In the Byteland country a string “S” is said to be super ASCIIi string if and only if count of each character in the string is equal to its ascii value.
 In the Byteland country ascii code of ‘a’ is 1, ‘b’ is 2 …’z’ is 26.
 Your task is to find out whether the given string is a super ascii string or not
 Input Format
